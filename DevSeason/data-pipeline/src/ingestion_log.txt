@@ -1,0 +1,1088 @@
+================================================================================
+GRID Evidence MongoDB Ingestion
+================================================================================
+Root: E:\A-c9-StratOS\grid-cache\hot
+MongoDB: test.kkbboqm.mongodb.net/?appName=Test
+Database: c9-stratos
+Years: 2024, 2025
+
+Connected to MongoDB database: c9-stratos
+Scanning E:\A-c9-StratOS\grid-cache\hot for series directories...
+Found 212 series directories with events.jsonl
+
+================================================================================
+Processing Series
+================================================================================
+
+[1/212] Series 2629390
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afecc733477b8f82deb7f
+
+[2/212] Series 2629391
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afece733477b8f82deb81
+
+[3/212] Series 2629395
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afecf733477b8f82deb83
+
+[4/212] Series 2629398
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afed0733477b8f82deb85
+
+[5/212] Series 2629401
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afed1733477b8f82deb87
+
+[6/212] Series 2629405
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afed3733477b8f82deb89
+
+[7/212] Series 2629406
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afed5733477b8f82deb8b
+
+[8/212] Series 2629407
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afed9733477b8f82deb8d
+
+[9/212] Series 2637961
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afeda733477b8f82deb8f
+
+[10/212] Series 2637962
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afedc733477b8f82deb91
+
+[11/212] Series 2637963
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afede733477b8f82deb93
+
+[12/212] Series 2648624
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afedf733477b8f82deb95
+
+[13/212] Series 2648625
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afee1733477b8f82deb97
+
+[14/212] Series 2648626
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afee3733477b8f82deb99
+
+[15/212] Series 2648627
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afee4733477b8f82deb9b
+
+[16/212] Series 2648628
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afee5733477b8f82deb9d
+
+[17/212] Series 2648629
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afee7733477b8f82deb9f
+
+[18/212] Series 2648630
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afee8733477b8f82deba1
+
+[19/212] Series 2648631
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afeea733477b8f82deba3
+
+[20/212] Series 2648632
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afeeb733477b8f82deba5
+
+[21/212] Series 2648633
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afeed733477b8f82deba7
+
+[22/212] Series 2648634
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afeee733477b8f82deba9
+
+[23/212] Series 2648635
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afef0733477b8f82debab
+
+[24/212] Series 2648636
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afef1733477b8f82debad
+
+[25/212] Series 2648637
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afef2733477b8f82debaf
+
+[26/212] Series 2648638
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afef5733477b8f82debb1
+
+[27/212] Series 2648639
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afef9733477b8f82debb3
+
+[28/212] Series 2654000
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afefa733477b8f82debb5
+
+[29/212] Series 2654001
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afefb733477b8f82debb7
+
+[30/212] Series 2654002
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afefc733477b8f82debb9
+
+[31/212] Series 2654003
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afefe733477b8f82debbb
+
+[32/212] Series 2654004
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff00733477b8f82debbd
+
+[33/212] Series 2654005
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff02733477b8f82debbf
+
+[34/212] Series 2654012
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff08733477b8f82debc1
+
+[35/212] Series 2654052
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff09733477b8f82debc3
+
+[36/212] Series 2629392
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff0b733477b8f82debc5
+
+[37/212] Series 2629393
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff0d733477b8f82debc7
+
+[38/212] Series 2629396
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff0e733477b8f82debc9
+
+[39/212] Series 2629399
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff10733477b8f82debcb
+
+[40/212] Series 2629402
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff12733477b8f82debcd
+
+[41/212] Series 2629394
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff15733477b8f82debcf
+
+[42/212] Series 2629400
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff16733477b8f82debd1
+
+[43/212] Series 2629403
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff17733477b8f82debd3
+
+[44/212] Series 2653969
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff19733477b8f82debd5
+
+[45/212] Series 2653970
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff1a733477b8f82debd7
+
+[46/212] Series 2653972
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff1b733477b8f82debd9
+
+[47/212] Series 2653973
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff1c733477b8f82debdb
+
+[48/212] Series 2653974
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff1e733477b8f82debdd
+
+[49/212] Series 2653975
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff1f733477b8f82debdf
+
+[50/212] Series 2653976
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff21733477b8f82debe1
+
+[51/212] Series 2653977
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff22733477b8f82debe3
+
+[52/212] Series 2653978
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff23733477b8f82debe5
+
+[53/212] Series 2653979
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff24733477b8f82debe7
+
+[54/212] Series 2653980
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff25733477b8f82debe9
+
+[55/212] Series 2653981
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff27733477b8f82debeb
+
+[56/212] Series 2653982
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff28733477b8f82debed
+
+[57/212] Series 2653983
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff28733477b8f82debef
+
+[58/212] Series 2653984
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff29733477b8f82debf1
+
+[59/212] Series 2653985
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff2a733477b8f82debf3
+
+[60/212] Series 2653986
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff2c733477b8f82debf5
+
+[61/212] Series 2653987
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff2d733477b8f82debf7
+
+[62/212] Series 2653988
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff2f733477b8f82debf9
+
+[63/212] Series 2653989
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff30733477b8f82debfb
+
+[64/212] Series 2653990
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff31733477b8f82debfd
+
+[65/212] Series 2653991
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff31733477b8f82debff
+
+[66/212] Series 2653992
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff33733477b8f82dec01
+
+[67/212] Series 2653993
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff35733477b8f82dec03
+
+[68/212] Series 2653994
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff37733477b8f82dec05
+
+[69/212] Series 2653995
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff38733477b8f82dec07
+
+[70/212] Series 2653996
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff39733477b8f82dec09
+
+[71/212] Series 2653997
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff3b733477b8f82dec0b
+
+[72/212] Series 2653998
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff3c733477b8f82dec0d
+
+[73/212] Series 2653999
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff3d733477b8f82dec0f
+
+[74/212] Series 2681809
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff3e733477b8f82dec11
+
+[75/212] Series 2681811
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff40733477b8f82dec13
+
+[76/212] Series 2681812
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff41733477b8f82dec15
+
+[77/212] Series 2681817
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff42733477b8f82dec17
+
+[78/212] Series 2681819
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff44733477b8f82dec19
+
+[79/212] Series 2681820
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff45733477b8f82dec1b
+
+[80/212] Series 2681823
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff46733477b8f82dec1d
+
+[81/212] Series 2681824
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff48733477b8f82dec1f
+
+[82/212] Series 2681826
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff49733477b8f82dec21
+
+[83/212] Series 2681830
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff4a733477b8f82dec23
+
+[84/212] Series 2681831
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff4b733477b8f82dec25
+
+[85/212] Series 2681834
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff4d733477b8f82dec27
+
+[86/212] Series 2681836
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff4e733477b8f82dec29
+
+[87/212] Series 2681837
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff4f733477b8f82dec2b
+
+[88/212] Series 2681838
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff51733477b8f82dec2d
+
+[89/212] Series 2681810
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff52733477b8f82dec2f
+
+[90/212] Series 2681814
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff54733477b8f82dec31
+
+[91/212] Series 2681818
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff55733477b8f82dec33
+
+[92/212] Series 2681821
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff56733477b8f82dec35
+
+[93/212] Series 2681822
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff57733477b8f82dec37
+
+[94/212] Series 2681827
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff59733477b8f82dec39
+
+[95/212] Series 2681829
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff5b733477b8f82dec3b
+
+[96/212] Series 2681832
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff5d733477b8f82dec3d
+
+[97/212] Series 2681835
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff5e733477b8f82dec3f
+
+[98/212] Series 2681839
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff5f733477b8f82dec41
+
+[99/212] Series 2681840
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff62733477b8f82dec43
+
+[100/212] Series 2681841
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff63733477b8f82dec45
+
+[101/212] Series 2681842
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff64733477b8f82dec47
+
+[102/212] Series 2681843
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff65733477b8f82dec49
+
+[103/212] Series 2681844
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff66733477b8f82dec4b
+
+[104/212] Series 2681845
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff68733477b8f82dec4d
+
+[105/212] Series 2681846
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff6d733477b8f82dec4f
+
+[106/212] Series 2681847
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff72733477b8f82dec51
+
+[107/212] Series 2748743
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff74733477b8f82dec53
+
+[108/212] Series 2748744
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff76733477b8f82dec55
+
+[109/212] Series 2748745
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff78733477b8f82dec57
+
+[110/212] Series 2748746
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff7a733477b8f82dec59
+
+[111/212] Series 2748747
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff7c733477b8f82dec5b
+
+[112/212] Series 2748748
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff80733477b8f82dec5d
+
+[113/212] Series 2748749
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff82733477b8f82dec5f
+
+[114/212] Series 2748750
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff84733477b8f82dec61
+
+[115/212] Series 2748753
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff86733477b8f82dec63
+
+[116/212] Series 2748754
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff8a733477b8f82dec65
+
+[117/212] Series 2748755
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff8e733477b8f82dec67
+
+[118/212] Series 2748756
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff90733477b8f82dec69
+
+[119/212] Series 2748757
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff94733477b8f82dec6b
+
+[120/212] Series 2748758
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff97733477b8f82dec6d
+
+[121/212] Series 2748759
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff98733477b8f82dec6f
+
+[122/212] Series 2748760
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694aff9d733477b8f82dec71
+
+[123/212] Series 2748761
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affa2733477b8f82dec73
+
+[124/212] Series 2748762
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affa5733477b8f82dec75
+
+[125/212] Series 2748763
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affa7733477b8f82dec77
+
+[126/212] Series 2748764
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affac733477b8f82dec79
+
+[127/212] Series 2748765
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affb4733477b8f82dec7b
+
+[128/212] Series 2748766
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affbe733477b8f82dec7d
+
+[129/212] Series 2775953
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affc2733477b8f82dec7f
+
+[130/212] Series 2775955
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affc4733477b8f82dec81
+
+[131/212] Series 2775956
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affc7733477b8f82dec83
+
+[132/212] Series 2775959
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affca733477b8f82dec85
+
+[133/212] Series 2775962
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affd0733477b8f82dec87
+
+[134/212] Series 2775964
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affd1733477b8f82dec89
+
+[135/212] Series 2775968
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affd3733477b8f82dec8b
+
+[136/212] Series 2775969
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affd5733477b8f82dec8d
+
+[137/212] Series 2775970
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affdb733477b8f82dec8f
+
+[138/212] Series 2775972
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affe0733477b8f82dec91
+
+[139/212] Series 2775973
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affe3733477b8f82dec93
+
+[140/212] Series 2775976
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affe4733477b8f82dec95
+
+[141/212] Series 2775977
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affe8733477b8f82dec97
+
+[142/212] Series 2775978
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affec733477b8f82dec99
+
+[143/212] Series 2775982
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694affef733477b8f82dec9b
+
+[144/212] Series 2775954
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afff3733477b8f82dec9d
+
+[145/212] Series 2775957
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afff6733477b8f82dec9f
+
+[146/212] Series 2775958
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afff9733477b8f82deca1
+
+[147/212] Series 2775960
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afffc733477b8f82deca3
+
+[148/212] Series 2775961
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694afffe733477b8f82deca5
+
+[149/212] Series 2775963
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0001733477b8f82deca7
+
+[150/212] Series 2775966
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0005733477b8f82deca9
+
+[151/212] Series 2775967
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0009733477b8f82decab
+
+[152/212] Series 2775971
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b000c733477b8f82decad
+
+[153/212] Series 2775974
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0012733477b8f82decaf
+
+[154/212] Series 2775975
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0015733477b8f82decb1
+
+[155/212] Series 2775979
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0017733477b8f82decb3
+
+[156/212] Series 2775980
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b001b733477b8f82decb5
+
+[157/212] Series 2775981
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0022733477b8f82decb7
+
+[158/212] Series 2789396
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0023733477b8f82decb9
+
+[159/212] Series 2775983
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0025733477b8f82decbb
+
+[160/212] Series 2775984
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0028733477b8f82decbd
+
+[161/212] Series 2775985
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b002a733477b8f82decbf
+
+[162/212] Series 2775986
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b002d733477b8f82decc1
+
+[163/212] Series 2775987
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b002f733477b8f82decc3
+
+[164/212] Series 2775988
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0034733477b8f82decc5
+
+[165/212] Series 2775989
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0038733477b8f82decc7
+
+[166/212] Series 2775990
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b003d733477b8f82decc9
+
+[167/212] Series 2775991
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0040733477b8f82deccb
+
+[168/212] Series 2775992
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0045733477b8f82deccd
+
+[169/212] Series 2775993
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b004d733477b8f82deccf
+
+[170/212] Series 2775994
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0056733477b8f82decd1
+
+[171/212] Series 2819676
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0057733477b8f82decd3
+
+[172/212] Series 2819678
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b005c733477b8f82decd5
+
+[173/212] Series 2819681
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0061733477b8f82decd7
+
+[174/212] Series 2819682
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0063733477b8f82decd9
+
+[175/212] Series 2819683
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0064733477b8f82decdb
+
+[176/212] Series 2819686
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0066733477b8f82decdd
+
+[177/212] Series 2819688
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b006a733477b8f82decdf
+
+[178/212] Series 2819690
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b006d733477b8f82dece1
+
+[179/212] Series 2819692
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0070733477b8f82dece3
+
+[180/212] Series 2819694
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0072733477b8f82dece5
+
+[181/212] Series 2819696
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0074733477b8f82dece7
+
+[182/212] Series 2819698
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0076733477b8f82dece9
+
+[183/212] Series 2819702
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0078733477b8f82deceb
+
+[184/212] Series 2819703
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b007b733477b8f82deced
+
+[185/212] Series 2819704
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b007e733477b8f82decef
+
+[186/212] Series 2819677
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0083733477b8f82decf1
+
+[187/212] Series 2819679
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0087733477b8f82decf3
+
+[188/212] Series 2819680
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0089733477b8f82decf5
+
+[189/212] Series 2819684
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b008b733477b8f82decf7
+
+[190/212] Series 2819685
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b008d733477b8f82decf9
+
+[191/212] Series 2819687
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b008f733477b8f82decfb
+
+[192/212] Series 2819689
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0095733477b8f82decfd
+
+[193/212] Series 2819691
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b0098733477b8f82decff
+
+[194/212] Series 2819693
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b009c733477b8f82ded01
+
+[195/212] Series 2819695
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00a0733477b8f82ded03
+
+[196/212] Series 2819697
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00a4733477b8f82ded05
+
+[197/212] Series 2819699
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00a8733477b8f82ded07
+
+[198/212] Series 2819700
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00ac733477b8f82ded09
+
+[199/212] Series 2819701
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00b1733477b8f82ded0b
+
+[200/212] Series 2819705
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00b4733477b8f82ded0d
+
+[201/212] Series 2843060
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00ba733477b8f82ded0f
+
+[202/212] Series 2843061
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00bb733477b8f82ded11
+
+[203/212] Series 2843062
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00c0733477b8f82ded13
+
+[204/212] Series 2843063
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00c5733477b8f82ded15
+
+[205/212] Series 2843064
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00ca733477b8f82ded17
+
+[206/212] Series 2843065
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00cd733477b8f82ded19
+
+[207/212] Series 2843066
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00d0733477b8f82ded1b
+
+[208/212] Series 2843067
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00d1733477b8f82ded1d
+
+[209/212] Series 2843068
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00d4733477b8f82ded1f
+
+[210/212] Series 2843069
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00d8733477b8f82ded21
+
+[211/212] Series 2843070
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00e0733477b8f82ded23
+
+[212/212] Series 2843071
+  Extraction: validated
+  MongoDB: success (created)
+  Match ID: 694b00e5733477b8f82ded25
+
+================================================================================
+SUMMARY
+================================================================================
+Total series found: 212
+Extracted: 212
+Failed: 0
+
+MongoDB Operations:
+  Created: 212
+  Updated: 0
+  Errors: 0
+

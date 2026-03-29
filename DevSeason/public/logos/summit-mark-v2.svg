@@ -1,0 +1,10 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Summit Deck Mark</title>
+  <desc id="desc">A monochrome badge with a summit peak and SD initials.</desc>
+  <rect x="16" y="16" width="224" height="224" rx="56" fill="#000000"/>
+  <rect x="16" y="16" width="224" height="224" rx="56" stroke="#FFFFFF" stroke-width="10"/>
+  <path d="M62 165L103 112L124 138L153 96L194 165" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="153" cy="96" r="8" fill="#FFFFFF"/>
+  <path d="M78 203H178" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M84 63C93 55 106 51 121 51C138 51 151 55 160 64" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+</svg>

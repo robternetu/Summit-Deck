@@ -1,0 +1,442 @@
+[
+  {
+    "gridMatchId": "demo_series_2629390",
+    "gridSeriesId": "2629390",
+    "tournamentId": "757073",
+    "team": "000000000000000000000001",
+    "opponentName": "NRG Esports",
+    "map": "Breeze",
+    "eventName": "VCT Champions Tour",
+    "date": "2024-02-16T22:00:00.000Z",
+    "teamRoundsWon": 13,
+    "teamRoundsLost": 10,
+    "players": [
+      {
+        "playerId": "291",
+        "playerName": "Player 291",
+        "kills": 18,
+        "deaths": 15
+      },
+      {
+        "playerId": "297",
+        "playerName": "Player 297",
+        "kills": 16,
+        "deaths": 14
+      },
+      {
+        "playerId": "11334",
+        "playerName": "Player 11334",
+        "kills": 15,
+        "deaths": 13
+      },
+      {
+        "playerId": "57",
+        "playerName": "Player 57",
+        "kills": 17,
+        "deaths": 16
+      },
+      {
+        "playerId": "51",
+        "playerName": "Player 51",
+        "kills": 14,
+        "deaths": 12
+      }
+    ],
+    "analytics": {
+      "evidence_v1": {
+        "meta": {
+          "seriesId": "2629390",
+          "extractedAt": "2024-02-16T23:00:00.000Z",
+          "version": "v1",
+          "isoThreshold": 2500
+        },
+        "games": [
+          {
+            "gameId": "719f343f-e8d5-44de-98c5-e66f04d0f5ab",
+            "mapName": "Breeze",
+            "sequenceNumber": 1
+          }
+        ],
+        "rounds": [
+          {
+            "gameId": "719f343f-e8d5-44de-98c5-e66f04d0f5ab",
+            "roundNumber": 1,
+            "winnerTeamId": "99",
+            "winType": "opponentEliminated",
+            "firstBlood": {
+              "killerId": "291",
+              "victimId": "51",
+              "killerTeamId": "97",
+              "timestamp": "2024-02-16T22:41:41.072Z"
+            },
+            "hadPlant": true,
+            "hadDefuse": false
+          },
+          {
+            "gameId": "719f343f-e8d5-44de-98c5-e66f04d0f5ab",
+            "roundNumber": 2,
+            "winnerTeamId": "97",
+            "winType": "bombDefused",
+            "firstBlood": {
+              "killerId": "57",
+              "victimId": "292",
+              "killerTeamId": "99",
+              "timestamp": "2024-02-16T22:43:26.932Z"
+            },
+            "hadPlant": true,
+            "hadDefuse": true
+          },
+          {
+            "gameId": "719f343f-e8d5-44de-98c5-e66f04d0f5ab",
+            "roundNumber": 3,
+            "winnerTeamId": "97",
+            "winType": "opponentEliminated",
+            "firstBlood": {
+              "killerId": "11334",
+              "victimId": "19",
+              "killerTeamId": "97",
+              "timestamp": "2024-02-16T22:44:19.072Z"
+            },
+            "hadPlant": false,
+            "hadDefuse": false
+          }
+        ],
+        "kills": [],
+        "plants": [
+          {
+            "gameId": "719f343f-e8d5-44de-98c5-e66f04d0f5ab",
+            "roundNumber": 1,
+            "timestamp": "2024-02-16T22:42:00.000Z",
+            "planterId": "291",
+            "planterTeamId": "97"
+          }
+        ],
+        "defuses": [
+          {
+            "gameId": "719f343f-e8d5-44de-98c5-e66f04d0f5ab",
+            "roundNumber": 2,
+            "timestamp": "2024-02-16T22:44:00.000Z",
+            "defuserId": "57",
+            "defuserTeamId": "99"
+          }
+        ],
+        "players": [
+          {
+            "playerId": "291",
+            "teamId": "97",
+            "firstBloods": 8,
+            "firstDeaths": 3,
+            "kills": 18,
+            "deaths": 15,
+            "kd": 1.2,
+            "isolatedDeathsCount": 5
+          },
+          {
+            "playerId": "297",
+            "teamId": "97",
+            "firstBloods": 6,
+            "firstDeaths": 4,
+            "kills": 16,
+            "deaths": 14,
+            "kd": 1.14,
+            "isolatedDeathsCount": 4
+          },
+          {
+            "playerId": "11334",
+            "teamId": "97",
+            "firstBloods": 7,
+            "firstDeaths": 2,
+            "kills": 15,
+            "deaths": 13,
+            "kd": 1.15,
+            "isolatedDeathsCount": 3
+          },
+          {
+            "playerId": "57",
+            "teamId": "99",
+            "firstBloods": 5,
+            "firstDeaths": 6,
+            "kills": 17,
+            "deaths": 16,
+            "kd": 1.06,
+            "isolatedDeathsCount": 6
+          },
+          {
+            "playerId": "51",
+            "teamId": "99",
+            "firstBloods": 4,
+            "firstDeaths": 5,
+            "kills": 14,
+            "deaths": 12,
+            "kd": 1.17,
+            "isolatedDeathsCount": 2
+          }
+        ],
+        "derived": {
+          "mapsStats": [
+            {
+              "gameId": "719f343f-e8d5-44de-98c5-e66f04d0f5ab",
+              "teamId": "97",
+              "teamName": "FURIA",
+              "roundsWon": 13,
+              "totalRounds": 23
+            },
+            {
+              "gameId": "719f343f-e8d5-44de-98c5-e66f04d0f5ab",
+              "teamId": "99",
+              "teamName": "NRG",
+              "roundsWon": 10,
+              "totalRounds": 23
+            }
+          ],
+          "firstBloodStats": [
+            {
+              "teamId": "97",
+              "teamName": "FURIA",
+              "firstBloods": 14,
+              "roundsWon": 12,
+              "conversionRate": 0.857
+            },
+            {
+              "teamId": "99",
+              "teamName": "NRG",
+              "firstBloods": 9,
+              "roundsWon": 7,
+              "conversionRate": 0.778
+            }
+          ],
+          "plantStats": [
+            {
+              "teamId": "97",
+              "teamName": "FURIA",
+              "plants": 10,
+              "postPlantWins": 7,
+              "postPlantWinRate": 0.7
+            },
+            {
+              "teamId": "99",
+              "teamName": "NRG",
+              "plants": 6,
+              "postPlantWins": 3,
+              "postPlantWinRate": 0.5
+            }
+          ]
+        }
+      },
+      "evidence_v1_meta": {
+        "extractedAt": "2024-02-16T23:00:00.000Z",
+        "version": "v1",
+        "extractor": "demo/seed"
+      }
+    }
+  },
+  {
+    "gridMatchId": "demo_series_2629391",
+    "gridSeriesId": "2629391",
+    "tournamentId": "757073",
+    "team": "000000000000000000000001",
+    "opponentName": "Sentinels",
+    "map": "Ascent",
+    "eventName": "VCT Champions Tour",
+    "date": "2024-02-17T20:00:00.000Z",
+    "teamRoundsWon": 13,
+    "teamRoundsLost": 11,
+    "players": [
+      {
+        "playerId": "301",
+        "playerName": "Player 301",
+        "kills": 22,
+        "deaths": 18
+      },
+      {
+        "playerId": "302",
+        "playerName": "Player 302",
+        "kills": 19,
+        "deaths": 16
+      },
+      {
+        "playerId": "303",
+        "playerName": "Player 303",
+        "kills": 17,
+        "deaths": 15
+      },
+      {
+        "playerId": "304",
+        "playerName": "Player 304",
+        "kills": 20,
+        "deaths": 17
+      },
+      {
+        "playerId": "305",
+        "playerName": "Player 305",
+        "kills": 16,
+        "deaths": 14
+      }
+    ],
+    "analytics": {
+      "evidence_v1": {
+        "meta": {
+          "seriesId": "2629391",
+          "extractedAt": "2024-02-17T21:00:00.000Z",
+          "version": "v1",
+          "isoThreshold": 2500
+        },
+        "games": [
+          {
+            "gameId": "819f343f-e8d5-44de-98c5-e66f04d0f5ac",
+            "mapName": "Ascent",
+            "sequenceNumber": 1
+          }
+        ],
+        "rounds": [
+          {
+            "gameId": "819f343f-e8d5-44de-98c5-e66f04d0f5ac",
+            "roundNumber": 1,
+            "winnerTeamId": "97",
+            "winType": "bombExploded",
+            "firstBlood": {
+              "killerId": "301",
+              "victimId": "401",
+              "killerTeamId": "97",
+              "timestamp": "2024-02-17T20:10:00.000Z"
+            },
+            "hadPlant": true,
+            "hadDefuse": false
+          },
+          {
+            "gameId": "819f343f-e8d5-44de-98c5-e66f04d0f5ac",
+            "roundNumber": 2,
+            "winnerTeamId": "99",
+            "winType": "opponentEliminated",
+            "firstBlood": {
+              "killerId": "402",
+              "victimId": "302",
+              "killerTeamId": "99",
+              "timestamp": "2024-02-17T20:12:00.000Z"
+            },
+            "hadPlant": false,
+            "hadDefuse": false
+          }
+        ],
+        "kills": [],
+        "plants": [
+          {
+            "gameId": "819f343f-e8d5-44de-98c5-e66f04d0f5ac",
+            "roundNumber": 1,
+            "timestamp": "2024-02-17T20:11:00.000Z",
+            "planterId": "301",
+            "planterTeamId": "97"
+          }
+        ],
+        "defuses": [],
+        "players": [
+          {
+            "playerId": "301",
+            "teamId": "97",
+            "firstBloods": 10,
+            "firstDeaths": 4,
+            "kills": 22,
+            "deaths": 18,
+            "kd": 1.22,
+            "isolatedDeathsCount": 4
+          },
+          {
+            "playerId": "302",
+            "teamId": "97",
+            "firstBloods": 7,
+            "firstDeaths": 5,
+            "kills": 19,
+            "deaths": 16,
+            "kd": 1.19,
+            "isolatedDeathsCount": 3
+          },
+          {
+            "playerId": "303",
+            "teamId": "97",
+            "firstBloods": 5,
+            "firstDeaths": 3,
+            "kills": 17,
+            "deaths": 15,
+            "kd": 1.13,
+            "isolatedDeathsCount": 5
+          },
+          {
+            "playerId": "304",
+            "teamId": "99",
+            "firstBloods": 8,
+            "firstDeaths": 6,
+            "kills": 20,
+            "deaths": 17,
+            "kd": 1.18,
+            "isolatedDeathsCount": 6
+          },
+          {
+            "playerId": "305",
+            "teamId": "99",
+            "firstBloods": 6,
+            "firstDeaths": 4,
+            "kills": 16,
+            "deaths": 14,
+            "kd": 1.14,
+            "isolatedDeathsCount": 2
+          }
+        ],
+        "derived": {
+          "mapsStats": [
+            {
+              "gameId": "819f343f-e8d5-44de-98c5-e66f04d0f5ac",
+              "teamId": "97",
+              "teamName": "FURIA",
+              "roundsWon": 13,
+              "totalRounds": 24
+            },
+            {
+              "gameId": "819f343f-e8d5-44de-98c5-e66f04d0f5ac",
+              "teamId": "99",
+              "teamName": "Sentinels",
+              "roundsWon": 11,
+              "totalRounds": 24
+            }
+          ],
+          "firstBloodStats": [
+            {
+              "teamId": "97",
+              "teamName": "FURIA",
+              "firstBloods": 15,
+              "roundsWon": 13,
+              "conversionRate": 0.867
+            },
+            {
+              "teamId": "99",
+              "teamName": "Sentinels",
+              "firstBloods": 9,
+              "roundsWon": 8,
+              "conversionRate": 0.889
+            }
+          ],
+          "plantStats": [
+            {
+              "teamId": "97",
+              "teamName": "FURIA",
+              "plants": 12,
+              "postPlantWins": 9,
+              "postPlantWinRate": 0.75
+            },
+            {
+              "teamId": "99",
+              "teamName": "Sentinels",
+              "plants": 8,
+              "postPlantWins": 5,
+              "postPlantWinRate": 0.625
+            }
+          ]
+        }
+      },
+      "evidence_v1_meta": {
+        "extractedAt": "2024-02-17T21:00:00.000Z",
+        "version": "v1",
+        "extractor": "demo/seed"
+      }
+    }
+  }
+]

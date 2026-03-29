@@ -1,0 +1,45 @@
+node_modules
+.next
+.env*
+!.env.example
+dist
+out
+
+# OS files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE files
+*.sublime-*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+.nyc_output
+
+# Deployment
+.vercel
+
+# Debug
+.turbo
+
+# GRID cache and archive data
+# Note: Main cache is on E:\grid-cache\hot (outside repo)
+# But ignore any local grid-cache directories
+grid-cache/
+grid-archive/
+*.jsonl
+manifest_extracted.json
+
+# Python script outputs
+scripts/py/out/
+
+.mcp.json
+nul
